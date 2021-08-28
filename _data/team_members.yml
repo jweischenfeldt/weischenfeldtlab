@@ -1,100 +1,118 @@
-- name: Milan P Allan
-  photo: Milan1.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: PhD with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
-
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
+- name: Joachim Weischenfeldt
+  photo: jweischenfeldt.jpg
+  info: PI, started Oct 2015
+  email: joachim.weischenfeldt.at.bric.ku.dk
   number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
+  education1: <b>Profile:</b> Joachim did his PhD at BRIC with Prof Porse followed by postdoctoral fellowship in the lab of <a href="https://www.embl.org/groups/korbel/">Jan Korbel</a> at EMBL, Heidelberg. <p>The interest of the lab spans different aspects of cancer genomics. A focus area is larger structural variants in cancer, their emergence and functional consequences and how the evolve during tumour evolution</p>
+  education2: <b>About/Fun fact:</b> xx
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
+
+- name: Francesco Favero
+  photo: Galileo.jpg
+  info: Postdoc, started XX
+  email: email@email.dk
   number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+  education1: <b>Profile:</b> Francesco did his PhD with <a href="https://www.dtu.dk/">Szallasi</a> at DTU in Copenhagen before XX. <p>Francesco is interested in intratumour heterogeneity and XXYY.</p>.
+  education2: <b>About/Fun fact:</b> xx
 
-- name: Jinwon Lee
-  photo: Jinwon.jpg
-  info: Postdoc, started July 2021
-  email: jwlee0421@postech.ac.kr
+- name: Nikos Sidiropoulos
+  photo: archimedes.jpg
+  info: Postdoc, started XX
+  email: email@email.dk
   number_educ: 2
-  education1: PhD with <a href="https://caldes.ibs.re.kr/html/caldes_en/">Han Woong Yeom</a> Pohang University of Science and Technology (POSTECH)
-  education2: BSc Pohang University of Science and Technology (POSTECH)
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
+- name: Francisco Germán Rodriguez Gonzalez
+  photo: Cajal-Restored.jpg
+  info: Staff scientist, started XX
+  email: email@email.dk
   number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
+- name: Jakob Schmidt Jespersen
+  photo: Tesla.jpg
+  info: Staft scientist, started XX
+  email: email@email.dk
   number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
 
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
+- name: Yogesh Kumar
+  photo: mendel.jpg
+  info: Post Doc, started XX
+  email: email@email.dk
   number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
 
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
+- name: Evdoxia Karadoulama
+  photo: Kovalevskaya.jpg
+  info: Post Doc, started XX
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Enrichetta Mileti
+  photo: Rita_Levi-Montalcini.jpg
+  info: Post Doc, started XX
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
+
+
+
+- name: Josephine Deleuran Hendriksen
+  photo: inge_lehmann.jpg
+  info: PhD student, started XX
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
+
+
+- name: Miglè Mikutenaite
+  photo: Barbara-McClintock-1902-1992.jpg
+  info: PhD student, started XX
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
+
+- name: Etsehiwot Girum GIrma
+  photo: curie-marie.jpg
+  info: PhD student, started XX
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
+
+- name: André Vidas Olsen
+  photo: august-krogh.jpg
+  info: PhD student, started XX
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
+
+
+- name: Alessio Locallo
+  photo: fermi.jpg
+  info: PhD Student, started XX
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
+
+- name: Eduardo Dias
+  photo: GodfreyKneller-IsaacNewton-1689.jpg
+  info: PhD Student, started XX
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> xx
+
+
