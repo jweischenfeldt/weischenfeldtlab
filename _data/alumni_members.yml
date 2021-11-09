@@ -1,18 +1,27 @@
+- name: Nikos Sidiropoulos
+  photo: archimedes.jpg
+  info: PhD and short-term Postdoc
+  duration: In the Weischenfeldt Lab from 2015 to 2021, now bioinformatician scientist at Novo Nordisk
+  email: nikos.sidiro@gmail.com
+  number_educ: 2
+  education1: XX
+  education2: XX
+
+
 - name: Aidan Flynn
   photo: elvis.jpg
-  duration: In the Weischenfeldt Lab XX - YY, now ZZ at XX
+  duration: In the Weischenfeldt Lab 2017 - 2020, now Bioinformatician at The Rare Disease Oncogenomics Laboratory in Melbourne, Australia
   info: post doc
   email: aidan.flynn@unimelb.edu.au
   number_educ: 1
   education1: X
   education2:
-  education3:
-  education4:
+  
 
 - name: Apurva Gopisetty
   photo: Jane-Goodall-1934.jpg
-  info: Ms student
-  duration: In the Weischenfeldt Lab XX to YY, now YY PhD student at XX
+  info: MSc student
+  duration: In the Weischenfeldt Lab 2017 to 2018, now a PhD student at DKFZ, Heidelberg
   email: a.gopisetty@kitz-heidelberg.de
   number_educ: 2
   education1: Master XX University

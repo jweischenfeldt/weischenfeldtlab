@@ -4,115 +4,117 @@
   email: joachim.weischenfeldt.at.bric.ku.dk
   number_educ: 2
   education1: <b>Profile:</b> Joachim did his PhD at BRIC with Prof Porse followed by postdoctoral fellowship in the lab of <a href="https://www.embl.org/groups/korbel/">Jan Korbel</a> at EMBL, Heidelberg. <p>The interest of the lab spans different aspects of cancer genomics. A focus area is larger structural variants in cancer, their emergence and functional consequences and how the evolve during tumour evolution</p>
-  education2: <b>About/Fun fact:</b> xx
-
+  education2: <b>About/Fun fact:</b> Trends come and go, but one thing you can be sure of is when Joachim invites his group to the yearly retreat he’ll always remember to include his infamous science karaoke in the program (also known as Joachim’s thing). The concept is simple, after all presentations, Joachim prepares an extra slideshow with randomly picked slides from each presentation. Then for each slide a randomly picked group member needs to explain what is going on, on the slide. You better listen carefully to your colleagues' presentations or you better come up with something good. Do not fear to run out of cola, he always brings his own stack of cans at work. So you may enjoy refreshment during Liverpool or Danish national team football games in his cinema size screen at his office.
 
 - name: Francesco Favero
   photo: Galileo.jpg
-  info: Postdoc, started XX
+  info: Assoc professor, started in 2016
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> Francesco did his PhD with <a href="https://www.dtu.dk/">Szallasi</a> at DTU in Copenhagen before XX. <p>Francesco is interested in intratumour heterogeneity and XXYY.</p>.
-  education2: <b>About/Fun fact:</b> xx
-
-- name: Nikos Sidiropoulos
-  photo: archimedes.jpg
-  info: Postdoc, started XX
-  email: email@email.dk
-  number_educ: 2
-  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> Francesco enjoys to automise processes and make pipelines. He has three children, two based on DNA and one based mostly on C++, R and python (pype, his pipeline). He is painstakingly thorough and cares for little details as much as his 1000 animals, sometimes the wrong details.
 
 - name: Francisco Germán Rodriguez Gonzalez
   photo: Cajal-Restored.jpg
-  info: Staff scientist, started XX
+  info: Staff scientist, started 2016
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> Germán is the king of latin dance floors and conqueror of table tennis fields, when he is not busy managing the BRIC’s sequencing facility. Excellent party buddy, he never says no to an extra beer to appropriately conclude the evening. Hungry news reader, he is constantly updated on what happens around the world and open to discuss everything. Proud of his Spanish heritage, he always brings Ambrosías Tirma, exquisite wafers from Gran Canaria, for his colleagues and he never has lunch before 3pm.
+
 
 - name: Jakob Schmidt Jespersen
   photo: Tesla.jpg
-  info: Staft scientist, started XX
+  info: Staft scientist, started 2019
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> is as meticulous in the lab as preparing his lunch, never skips a detail just like he never skips a healthy carrot snack. Bonus points - can survive a full working day with a single carrot and a piece of rye bread
 
 - name: Yogesh Kumar
   photo: mendel.jpg
-  info: Post Doc, started XX
+  info: Post Doc, started 2020
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
-
-- name: Evdoxia Karadoulama
-  photo: Kovalevskaya.jpg
-  info: Post Doc, started XX
-  email: email@email.dk
-  number_educ: 2
-  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> has a glass of patience comparable to all of ours combined together. He worked for months on the opposite side of the planet, Zooming to Denmark every Friday night in his pyjamas 
 
 - name: Enrichetta Mileti
   photo: Rita_Levi-Montalcini.jpg
-  info: Post Doc, started XX
+  info: Post Doc, started 2021
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> gets a package from Italy every few months to keep the Italian roots alive, not scared of Scandinavian winter since she already suffered few years in Sweden
+
+- name: Evdoxia "Effie" Karadoulama
+  photo: Kovalevskaya.jpg
+  info: Post Doc, started 2020
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
   education2: <b>About/Fun fact:</b> xx
-
 
 
 - name: Josephine Deleuran Hendriksen
   photo: inge_lehmann.jpg
-  info: PhD student, started XX
+  info: PhD student, started 2016
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> Josephine likes to drink tea. She actually likes it so much that she once even had a tea Christmas calendar, with different tea flavors for each day. Josephine is also a very social person and besides singing, dancing and clubbing at fancy places in Copenhagen, she also organized a knitting club together with Migle during the pandemic. Speaking of dancing, at one of the BRIC parties, she danced so hard, trying to keep up with German’s latino moves, that she accidently fell on the dancefloor. Josephine bravely wanted to continue doing her thing, but Coline and colleagues convinced her that it was probably better to go to the hospital to get some stitches instead. Lastly, it is also worth mentioning that Josephine is the proud winner of a lifetime supply of cereals.
+
 
 
 - name: Miglè Mikutenaite
   photo: Barbara-McClintock-1902-1992.jpg
-  info: PhD student, started XX
+  info: PhD student, started 2018
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> Migle is quite a popular name in her home country not as a person's name but as a very delicious candy bar. If she could keep any animal as a pet she would choose a cat if she was not allergic to it. Not many people know this but she can’t stand any sounds (Keyboard, chewing) unless it’s music. She likes to listen to the same song over and over again while biking as slowly as she can. The weather is never warm enough for her, that's why she prefers drinking lukewarm water.
 
-- name: Etsehiwot Girum GIrma
+
+- name: Etsehiwot "Essi" Girum Girma
   photo: curie-marie.jpg
-  info: PhD student, started XX
+  info: PhD student, started 2017
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> She somehow manages to work on so many projects at once and keep it organised and, judging from the silky-smooth chocolate cake she brought, she must be a great cook
 
 - name: André Vidas Olsen
   photo: august-krogh.jpg
-  info: PhD student, started XX
+  info: PhD student, started 2018
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> the most flexible but structured person in the group - working in two offices at the same time, balancing between coding and balkan music. A Journal Club aficionado.
 
 
 - name: Alessio Locallo
   photo: fermi.jpg
-  info: PhD Student, started XX
+  info: PhD Student, started 2020
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> can talk for hours about how genome alignment works. He is a foodie who makes very Italian pesto out of 361 basil leafs. Loves when you break the spaghetti into tiny pieces.
 
 - name: Eduardo Dias
   photo: GodfreyKneller-IsaacNewton-1689.jpg
-  info: PhD Student, started XX
+  info: PhD Student, started 2019
   email: email@email.dk
   number_educ: 2
   education1: <b>Profile:</b> XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
-  education2: <b>About/Fun fact:</b> xx
+  education2: <b>About/Fun fact:</b> Eduardo chose to apply his talents in genomics research instead of following in the footsteps of his compatriot Cristiano Ronaldo. He is known for his highly developed sense for order and perfection, which is evident from his exquisite handwriting, neatly organized lab bench / office desk and his impeccable appearance with freshly ironed clothes. He has an outgoing personality and enjoys electronic music, especially reggaeton, clubbing and festivals.
+
+
+- name: Pascal Lafrenz
+  photo: Herman_von_Helmholtz.jpeg
+  info: Erasmus student, started 2021
+  email: email@email.dk
+  number_educ: 2
+  education1: <b>Profile:</b> Studied XX at of <a href="https://www.xx.org/groups/YY/">John Doe</a> at YY, XY. 
+  education2: <b>About/Fun fact:</b> XXX
 
 
